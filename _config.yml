@@ -1,11 +1,11 @@
 # Site settings
 author: Arjun Sharma
-title: 
+title: FIRST DAY OUT blogging
 header-img: img/home-bg.png
 email: arjunsharma0821@gmail.com
 copyright_name: Arjun Sharma
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Set Up
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  arjunsharma0821
